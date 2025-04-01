@@ -1,10 +1,14 @@
 <?php
 /*
 	Plugin Name: Bluefrog Addons
+	Plugin URI: https://github.com/ashleyL25/duplicate-custom-post-types
 	Description: This is for updating your Wordpress plugin.
 	Version: 1.0.1
-	Author: Blue Frog Agency
+	Author: BlueFrog DM
 	Author URI: https://bluefrogdm.com
+	GitHub Plugin URI: ashleyL25/bluefrog-addons
+	GitHub Branch: main
+	Text Domain: bluefrog-addons
 */
 
 if ( ! defined( 'ABSPATH' ) ) {

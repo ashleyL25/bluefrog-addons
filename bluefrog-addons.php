@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: Bluefrog Addons
-	Plugin URI: https://github.com/ashleyL25/duplicate-custom-post-types
+	Plugin URI: https://github.com/ashleyL25/bluefrog-addons
 	Description: This is for updating your Wordpress plugin.
 	Version: 1.0.1
 	Author: BlueFrog DM

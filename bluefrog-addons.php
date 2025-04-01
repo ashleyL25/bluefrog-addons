@@ -3,7 +3,7 @@
 	Plugin Name: Bluefrog Addons
 	Plugin URI: https://github.com/ashleyL25/bluefrog-addons
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: BlueFrog DM
 	Author URI: https://bluefrogdm.com
 	GitHub Plugin URI: ashleyL25/bluefrog-addons
@@ -47,8 +47,6 @@ final class Bluefrog_Addons {
 		include_once( BLUEFROG_ADDONS_DIR . 'includes/class-bluefrog-vc.php' );
 		include_once( BLUEFROG_ADDONS_DIR . 'includes/shortcodes/class-bluefrog-shortcodes.php' );
 		include_once( BLUEFROG_ADDONS_DIR . 'includes/shortcodes/class-bluefrog-banner.php' );
-		// include_once( BLUEFROG_ADDONS_DIR . 'includes/shortcodes/class-bluefrog-banner-grid.php' );
-		// include_once( BLUEFROG_ADDONS_DIR . 'update.php' ); // Include the update class
 	}
 
 	/**
